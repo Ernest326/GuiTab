@@ -1,0 +1,13 @@
+#Python stuff
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info/
+
+#Virtual environment
+.venv
+
+#Extra files
+plans.txt

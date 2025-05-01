@@ -1,0 +1,12 @@
+[project]
+name = "guitab"
+version = "0.1.0"
+description = " Guitar to tabs powered by Machine Learning "
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "librosa>=0.11.0",
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.5",
+    "sounddevice>=0.5.1",
+]
